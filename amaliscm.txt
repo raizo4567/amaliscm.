@@ -1,0 +1,4 @@
+ujian amali source code management
+-guthub dan git
+-makmal komputer 1
+-bengkel teknologi perisian pengaturcara
